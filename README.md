@@ -100,6 +100,11 @@ public class Ahin {
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahin-2007&layout=compact&theme=tokyonight&hide_border=true&title_color=F7AB17&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
 
 </div>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahin-2007&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
