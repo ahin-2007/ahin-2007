@@ -41,7 +41,7 @@ public class Ahin {
         "UI/UX Design 🎨"
     };
 
-    String funFact = "I debug with coffee ☕";
+   
 }
 ```
 
@@ -96,8 +96,8 @@ public class Ahin {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahin-2007&theme=tokyonight&hide_border=true&stroke=F7AB17&ring=F7AB17&fire=FF6B6B&currStreakLabel=F7AB17&background=0d1117" alt="GitHub Streak"/>
 
 <br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahin-2007&layout=compact&theme=tokyonight&hide_border=true&title_color=F7AB17&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+<!-- 
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahin-2007&layout=compact&theme=tokyonight&hide_border=true&title_color=F7AB17&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages"/> -->
 
 </div>
 <div align="center">
