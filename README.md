@@ -92,7 +92,7 @@ public class Ahin {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahin-2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F7AB17&icon_color=F7AB17&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahin-2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahin-2007&theme=tokyonight&hide_border=true&stroke=F7AB17&ring=F7AB17&fire=FF6B6B&currStreakLabel=F7AB17&background=0d1117" alt="GitHub Streak"/>
 
 <br/>
