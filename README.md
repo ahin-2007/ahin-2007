@@ -116,7 +116,7 @@ public class Ahin {
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-ahin--2007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ahin-2007/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ahin-2007?theme=light&font=ABeeZee)
 
 </div>
 
