@@ -3,7 +3,6 @@
 <!-- Animated Banner -->
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F7AB17&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ahin.k;Java+Full+Stack+Developer;BCA+Student+%7C+Problem+Solver;Building+Cool+Stuff+with+Code" />
-</a>font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=F7AB17&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ahin.k+👋;Java+Full+Stack+Developer+☕;BCA+Student+%7C+Problem+Solver+🧩;Building+Cool+Stuff+with+Code+🚀)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahin.k&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Full%20Stack%20Developer%20%7C%20BCA%20Student%20%7C%20India&descAlignY=55&descSize=20" width="100%"/>
 
