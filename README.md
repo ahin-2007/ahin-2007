@@ -93,18 +93,19 @@ public class Ahin {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahin-2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=F7AB17&icon_color=F7AB17&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
-<!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahin-2007&theme=tokyonight&hide_border=true&stroke=F7AB17&ring=F7AB17&fire=FF6B6B&currStreakLabel=F7AB17&background=0d1117" alt="GitHub Streak"/> -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahin-2007&theme=tokyonight&hide_border=true&stroke=F7AB17&ring=F7AB17&fire=FF6B6B&currStreakLabel=F7AB17&background=0d1117" alt="GitHub Streak"/>
 
 <br/>
 <!-- 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahin-2007&layout=compact&theme=tokyonight&hide_border=true&title_color=F7AB17&text_color=ffffff&bg_color=0d1117&langs_count=8" alt="Top Languages"/> -->
 
 </div>
-<div align="center">
+<!-- <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahin-2007&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=ahin-2007&theme=tokyonight&no-frame=true&row=1&column=7"/> -->
 
-</div>
+<!-- </div>  -->
+
 
 ---
 
