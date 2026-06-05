@@ -107,7 +107,9 @@ public class Ahin {
 
 <div align="center">
 
-[![Ahin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahin-2007&bg_color=0d1117&color=F7AB17&line=F7AB17&point=ffffff&area=true&area_color=F7AB1730&hide_border=true&custom_title=Ahin's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ahin-2007">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahin-2007&bg_color=0d1117&color=F7AB17&line=F7AB17&point=ffffff&area=true&area_color=F7AB1730&hide_border=true&custom_title=Ahin's%20Contribution%20Graph" width="100%"/>
+</a>
 
 </div>
 
